@@ -1,10 +1,9 @@
 ## Backend Development
-https://backend-development.github.io/javascript_and_ajax.html
+- https://backend-development.github.io/javascript_and_ajax.html
 
 ## Deploy Rails
-http://vladigleba.com/blog/2014/03/27/deploying-rails-apps-part-4-configuring-nginx/
-
-https://binarapps.com/blog/deploying-ruby-on-rails-app-to-a-vps
+- http://vladigleba.com/blog/2014/03/27/deploying-rails-apps-part-4-configuring-nginx/
+- https://binarapps.com/blog/deploying-ruby-on-rails-app-to-a-vps
 
 https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/#sph_location-file-and-folder-configuration
 
