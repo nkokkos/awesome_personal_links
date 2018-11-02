@@ -1,8 +1,3 @@
-############ Great Rails Authors ###############################
-https://github.com/ankane/shorts
-https://www.sitepoint.com/author/ibodrov/
-https://www.linkedin.com/in/bodrovis
-
 ## Backend Development
 https://backend-development.github.io/javascript_and_ajax.html
 
@@ -133,11 +128,14 @@ https://blog.botreetechnologies.com/change-default-file-path-of-active-storage-i
 https://hackernotes.io/robust-ajax-uis-with-jquery-ujs-and-server-generated-javascript-responses/
 https://gorails.com/episodes/migrating-from-jquery-to-vanilla-javascript
 https://learnetto.com/blog/how-to-make-ajax-calls-in-rails-5-1-with-or-without-jquery
-Read this for passing parameters Keywords: callbacks - functions - success - failure  
+
+#Read this for passing parameters Keywords: callbacks - functions - success - failure  
 https://stackoverflow.com/questions/44737451/passing-parameters-through-ajax-success-function
-Render layout false for javascript responses
+
+# Render layout false for javascript responses
 https://cbabhusal.wordpress.com/2016/05/04/rails-acting-weird-why-layout-is-rendered-when-format-js/
 https://stackoverflow.com/questions/40142099/rails-code-for-format-js-do-not-work
+
 # Ajax Spinners
 https://codediode.io/lessons/8736-loading-spinners-in-rails#1-spinner-css
 https://codediode.io/lessons/1904-ajaxified-one-page-application-with-rails
@@ -149,7 +147,6 @@ https://stackoverflow.com/questions/1374415/how-to-limit-the-resource-formats-in
 https://www.ombulabs.com/blog/ruby/rails/sessions/session-user-flow.html
 https://www.mobiloitte.com/blog/counter-common-security-problems-making-web-applications-inside-ruby-rails/
 https://github.com/rails/activerecord-session_store/issues/97
-SOS:this is good:
 https://madkingsmusings.blogspot.com/2011/05/session-timeouts-on-rails.html
 https://geekhmer.github.io/blog/2016/01/27/how-to-make-session-data-available-to-models-in-ruby-on-rails/
 
@@ -185,3 +182,8 @@ https://medium.com/@tdaniel/using-actioncable-to-provide-updates-on-background-j
 https://github.com/d4be4st/progress_job_demo/blob/master/app/jobs/export_job.rb
 https://collectiveidea.com/blog/archives/2016/12/13/getting-started-with-action-cable
 https://stackoverflow.com/questions/5582017/polling-with-delayed-job
+
+##Great Authors To Learn From
+https://github.com/ankane/shorts
+https://www.sitepoint.com/author/ibodrov/
+https://www.linkedin.com/in/bodrovis
