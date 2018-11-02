@@ -3,7 +3,9 @@ https://backend-development.github.io/javascript_and_ajax.html
 
 ## Deploy Rails
 http://vladigleba.com/blog/2014/03/27/deploying-rails-apps-part-4-configuring-nginx/
+
 https://binarapps.com/blog/deploying-ruby-on-rails-app-to-a-vps
+
 https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/#sph_location-file-and-folder-configuration
 
 ## Deliver Email
@@ -11,12 +13,16 @@ https://medium.com/@coorasse/the-correct-emails-configuration-in-rails-c1d8418c0
 
 ## Database Optimization and Best Practices
 https://blog.carbonfive.com/page/4/
-https://blog.acolyer.org/2018/06/28/how-_not_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs-in-the-wild/
+
+https://blog.acolyer org/2018/06/28/how-_not_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs-in-the-wild/
+
 http://blog.honeybadger.io/common-rails-idioms-that-kill-database-performance/
 
 ## BigONotation and Time Complexity
 http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/?utm_source=twitter&utm_medium=social&utm_campaign=blogpost
+
 http://www.rubyguides.com/2018/03/time-complexity-for-ruby-developers/
+
 
 ## Auto Save Forms
 https://blog.carbonfive.com/2018/01/24/an-ajax-auto-save-implementation/
