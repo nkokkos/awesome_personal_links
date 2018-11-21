@@ -11,7 +11,7 @@
 
 ## Database Optimization and Best Practices
 - https://blog.carbonfive.com/page/4/
-- https://blog.acolyer org/2018/06/28/how-_not_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs-in-the-wild/
+- https://blog.acolyer org/2018/06/28/how-_not_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs in-the-wild/
 - http://blog.honeybadger.io/common-rails-idioms-that-kill-database-performance/
 
 ## BigONotation and Time Complexity
